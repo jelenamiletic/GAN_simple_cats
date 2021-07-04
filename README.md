@@ -1,5 +1,5 @@
 <h1 align="center">GAN generisanje slika mačaka 🐱</h1>
-Generativna adverzala mreza koja generise jednostavne crteze macaka zasnovanih na Google **Quick, Draw!** dataset-u. 
+Generativna adverzala mreza koja generise jednostavne crteze macaka zasnovanih na Google **Quick, Draw**! dataset-u. 
 
 ## Biblioteke koje su koriscene 
 - numpy
