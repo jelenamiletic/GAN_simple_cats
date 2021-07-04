@@ -1,6 +1,15 @@
 <h1 align="center">GAN generisanje slika mačaka 🐱</h1>
 Generativna adverzala mreza koja generise jednostavne crteze macaka zasnovanih na Google **Quick, Draw**! dataset-u. 
 
+## Problem koji se resava
+Generisanje novih crteza macaka iz odredjenog skupa podataka. 
+
+## Nacin resavanja problema
+Za resavanje ovog problema je koriscena Generativna adverzala mreza (GAN). Generativne adverzalne mreže se sastoje iz dve neuronske mreže koje se “takmiče” jedna sa drugom. Zbog toga se zovu adverzalne mreže. Prva mreža je generatorna koja pokušava da ulazni nasumični šum napravi što sličniji pravim podacima.
+
+## Skup podataka koji se koristi
+Na sledecem [linku](https://console.cloud.google.com/storage/quickdraw_dataset/full/numpy_bitmap) se moze naci skup podataka koji se koristi za treniranje.
+
 ## Biblioteke koje su koriscene 
 - numpy
 - tqdm 
